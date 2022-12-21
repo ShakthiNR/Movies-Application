@@ -1,0 +1,9 @@
+.header--outer{
+    margin: 10px;
+}
+.header-content{
+    color: slateblue;
+    text-transform: capitalize;
+    font-size: clamp(1.5rem,4vw,2rem);
+
+}

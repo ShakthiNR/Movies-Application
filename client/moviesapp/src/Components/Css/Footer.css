@@ -1,0 +1,13 @@
+.footer--outer{
+ background-color: lightgray;
+ color: black;
+ padding: 10px;
+ text-align: center;
+ width: 100%;
+ font-size: clamp(1rem,4vw,0.9rem);
+}
+
+.footer--content{
+    padding: 5px;
+    
+}

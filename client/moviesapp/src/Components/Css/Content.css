@@ -1,0 +1,19 @@
+.error{
+    color: red;
+    font-size: clamp(1.3rem,4vw,1rem);
+}
+
+.layout{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.card--outer{ 
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+
+}

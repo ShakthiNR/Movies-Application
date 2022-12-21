@@ -1,0 +1,19 @@
+.form--outer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+   overflow: hidden;
+}
+
+
+input{
+    padding: 10px;
+    width: clamp(35%,50%,50%);
+}
+
+.success{
+    color: green;
+    font-size: clamp(1.3rem,4vw,1rem);
+}
